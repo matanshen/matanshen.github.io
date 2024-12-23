@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in my bachelor has led me to develop a passion for Data Science\Analysis, and I am now eager to transition into this field, specifically aiming to join a good and dedicated team as a Data Analyst\Scientist.
 
-## Tolls and Skills
+## Toolls and Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
